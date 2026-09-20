@@ -1,6 +1,6 @@
 # LankaMart Retail Performance Dashboard
 
-**Author: S.M.F.Asra**
+**Author: JF.Rifna**
 
 A complete local Streamlit dashboard for the CIT308 Data Visualization Mid Semester Evaluation. It answers: **How is LankaMart performing, where are the main risks or opportunities, and what actions should management consider?**
 

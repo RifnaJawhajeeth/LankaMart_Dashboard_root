@@ -1,6 +1,6 @@
 # LankaMart screenshot gallery
 
-**App author: JF.rifna**
+**App author: JF.Rifna**
 
 All **13 PNG screenshots** from `lanka mart screen shot.zip` are stored in `submitted/`. Their original filenames and image bytes are preserved. Every screenshot is embedded in the [main README gallery](../README.md#screenshots).
 

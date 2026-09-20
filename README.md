@@ -1,6 +1,6 @@
 # LankaMart Retail Performance Dashboard
 
-**Author: JF.Rifna**
+**Author: S.M.F.Asra**
 
 A complete local Streamlit dashboard for the CIT308 Data Visualization Mid Semester Evaluation. It answers: **How is LankaMart performing, where are the main risks or opportunities, and what actions should management consider?**
 
@@ -8,6 +8,11 @@ The application reads only the supplied `CIT308_LankaMart_Retail_Transactions.cs
 
 **Python 3.10+ · Streamlit · Pandas · Plotly · NumPy**
 
+[Screenshots](#screenshots) · [Install and run](#install-and-run) · [Upload to GitHub](#upload-to-github) · [Data preparation](#data-preparation-and-preservation) · [Validation](#libraries-and-validation)
+
+![LankaMart dashboard in Dark Mode with the blue header, sidebar filters and executive KPI cards](screenshots/submitted/Screenshot%202026-09-15%20134844.png)
+
+## Screenshots
 
 All **13 screenshots** from `lanka mart screen shot.zip` are included in `screenshots/submitted/`, with their original filenames and image quality preserved. The overview appears above; expand the sections below to view the other 12 screenshots.
 
